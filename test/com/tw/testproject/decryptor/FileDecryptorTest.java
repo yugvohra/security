@@ -1,5 +1,6 @@
-package com.tw.testproject.encryptor;
+package com.tw.testproject.decryptor;
 
+import com.tw.testproject.decryptor.FileDecryptor;
 import org.junit.Test;
 
 import java.io.File;
